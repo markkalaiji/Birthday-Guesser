@@ -1,0 +1,4 @@
+#Files to ignore
+birthdayGuesser.iml
+out/
+.idea
